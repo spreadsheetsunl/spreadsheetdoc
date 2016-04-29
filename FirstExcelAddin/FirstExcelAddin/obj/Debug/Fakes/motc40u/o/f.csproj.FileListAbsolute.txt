@@ -1,0 +1,3 @@
+C:\Users\Diogo\Documents\Visual Studio 2013\Projects\FirstExcelAddin\FirstExcelAddin\obj\Debug\Fakes\motc40u\o\f.csprojResolveAssemblyReference.cache
+C:\Users\Diogo\Documents\Visual Studio 2013\Projects\FirstExcelAddin\FirstExcelAddin\obj\Debug\Fakes\motc40u\o\Interop.Microsoft.Office.Core.dll
+C:\Users\Diogo\Documents\Visual Studio 2013\Projects\FirstExcelAddin\FirstExcelAddin\obj\Debug\Fakes\motc40u\o\f.csproj.ResolveComReference.cache
