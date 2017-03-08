@@ -8,4 +8,4 @@ This problem is even worst when dealing with software for non-professional progr
 
 SpreadsheetDoc is an Excel add-in that allows users to document spreadsheets in a structured way, allowing them to describe different parts of spreadsheets. For instance, for (future) spreadsheet users, it is possible to describe input and output cells, and for (future) developers, it is possible to describe computation, that is, formulas: their argument, their internals, and their outputs.
 
-The following scientific paper describes in more detail SpreadsheetDoc: http://docentes.fct.unl.pt/jmc-cunha/publications/spreadsheetdoc-excel-add-documenting-spreadsheets.
+More info can be found at http://spreadsheetsunl.github.io/spreadsheetdoc/.
